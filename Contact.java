@@ -1,4 +1,4 @@
-package Teste;
+package ContactsManagerOOP;
 
 public class Contact {
     String name;
