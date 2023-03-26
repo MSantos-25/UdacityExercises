@@ -2,8 +2,6 @@ package ContactsManagerOOP;
 
 import java.util.jar.Attributes.Name;
 
-import javax.sound.midi.Soundbank;
-
 public class Main {
     public static void main(String [] args) {
         ContactsManager myContactsManager = new ContactsManager();
