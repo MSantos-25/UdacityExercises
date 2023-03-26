@@ -1,7 +1,5 @@
 package ContactsManagerOOP;
 
-import java.util.jar.Attributes.Name;
-
 public class Main {
     public static void main(String [] args) {
         ContactsManager myContactsManager = new ContactsManager();
